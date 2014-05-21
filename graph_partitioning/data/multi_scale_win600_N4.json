@@ -1,0 +1,105 @@
+{
+"name": "multi_scale_win600_N4.json",
+"children": [
+{
+"name": "1",
+"children": [
+{"name": "7", "size": 1314},
+{"name": "123", "size": 1094},
+{"name": "885", "size": 1006},
+{"name": "944", "size": 813},
+{"name": "539", "size": 730},
+{"name": "169", "size": 693},
+{"name": "916", "size": 503},
+{"name": "130", "size": 496},
+{"name": "902", "size": 419},
+{"name": "55", "size": 341},
+{"name": "799", "size": 294},
+{"name": "10", "size": 278},
+{"name": "2791", "size": 266},
+{"name": "939", "size": 262},
+{"name": "32", "size": 247},
+{"name": "2795", "size": 237},
+{"name": "1101", "size": 214},
+{"name": "108", "size": 175},
+{"name": "49", "size": 158},
+{"name": "25", "size": 158}
+]
+},
+{
+"name": "3",
+"children": [
+{"name": "18", "size": 1174},
+{"name": "220", "size": 625},
+{"name": "134", "size": 606},
+{"name": "9", "size": 604},
+{"name": "2808", "size": 585},
+{"name": "1", "size": 574},
+{"name": "68", "size": 541},
+{"name": "29", "size": 531},
+{"name": "949", "size": 393},
+{"name": "129", "size": 337},
+{"name": "950", "size": 316},
+{"name": "230", "size": 315},
+{"name": "31", "size": 313},
+{"name": "900", "size": 299},
+{"name": "598", "size": 283},
+{"name": "1285", "size": 251},
+{"name": "1130", "size": 251},
+{"name": "171", "size": 234},
+{"name": "1051", "size": 224},
+{"name": "79", "size": 218}
+]
+},
+{
+"name": "2",
+"children": [
+{"name": "858", "size": 394},
+{"name": "423", "size": 357},
+{"name": "881", "size": 299},
+{"name": "11", "size": 196},
+{"name": "878", "size": 181},
+{"name": "90", "size": 159},
+{"name": "115", "size": 148},
+{"name": "394", "size": 146},
+{"name": "926", "size": 97},
+{"name": "2822", "size": 75},
+{"name": "2256", "size": 67},
+{"name": "1023", "size": 61},
+{"name": "759", "size": 51},
+{"name": "1006", "size": 50},
+{"name": "596", "size": 48},
+{"name": "961", "size": 45},
+{"name": "980", "size": 44},
+{"name": "1510", "size": 40},
+{"name": "163", "size": 35},
+{"name": "43", "size": 28}
+]
+},
+{
+"name": "4",
+"children": [
+{"name": "5420", "size": 223},
+{"name": "1165", "size": 161},
+{"name": "995", "size": 9},
+{"name": "5770", "size": 7},
+{"name": "4058", "size": 7},
+{"name": "1157", "size": 6},
+{"name": "2105", "size": 5},
+{"name": "1976", "size": 5},
+{"name": "5562", "size": 4},
+{"name": "5489", "size": 4},
+{"name": "5741", "size": 3},
+{"name": "5397", "size": 3},
+{"name": "5396", "size": 3},
+{"name": "6271", "size": 2},
+{"name": "5773", "size": 2},
+{"name": "5769", "size": 2},
+{"name": "4868", "size": 2},
+{"name": "1216", "size": 2},
+{"name": "7607", "size": 1},
+{"name": "7606", "size": 1}
+]
+}
+]
+}

@@ -1,0 +1,105 @@
+{
+"name": "multi_scale_win3600_N4.json",
+"children": [
+{
+"name": "1",
+"children": [
+{"name": "109", "size": 522},
+{"name": "2", "size": 275},
+{"name": "312", "size": 229},
+{"name": "395", "size": 187},
+{"name": "149", "size": 144},
+{"name": "27", "size": 139},
+{"name": "4656", "size": 106},
+{"name": "7", "size": 104},
+{"name": "4", "size": 103},
+{"name": "499", "size": 100},
+{"name": "259", "size": 98},
+{"name": "22", "size": 84},
+{"name": "95", "size": 60},
+{"name": "4890", "size": 47},
+{"name": "3197", "size": 46},
+{"name": "540", "size": 40},
+{"name": "541", "size": 37},
+{"name": "543", "size": 36},
+{"name": "134", "size": 31},
+{"name": "400", "size": 30}
+]
+},
+{
+"name": "3",
+"children": [
+{"name": "44", "size": 1455},
+{"name": "6", "size": 1043},
+{"name": "43", "size": 595},
+{"name": "31", "size": 556},
+{"name": "274", "size": 427},
+{"name": "320", "size": 294},
+{"name": "3128", "size": 267},
+{"name": "175", "size": 168},
+{"name": "120", "size": 155},
+{"name": "58", "size": 153},
+{"name": "286", "size": 149},
+{"name": "39", "size": 146},
+{"name": "75", "size": 132},
+{"name": "40", "size": 124},
+{"name": "74", "size": 117},
+{"name": "35", "size": 117},
+{"name": "9", "size": 103},
+{"name": "683", "size": 90},
+{"name": "353", "size": 48},
+{"name": "362", "size": 47}
+]
+},
+{
+"name": "2",
+"children": [
+{"name": "553", "size": 688},
+{"name": "377", "size": 565},
+{"name": "49", "size": 560},
+{"name": "64", "size": 557},
+{"name": "18", "size": 465},
+{"name": "103", "size": 359},
+{"name": "445", "size": 351},
+{"name": "131", "size": 318},
+{"name": "126", "size": 295},
+{"name": "124", "size": 269},
+{"name": "54", "size": 212},
+{"name": "2658", "size": 190},
+{"name": "33", "size": 150},
+{"name": "139", "size": 150},
+{"name": "295", "size": 149},
+{"name": "129", "size": 147},
+{"name": "105", "size": 143},
+{"name": "223", "size": 135},
+{"name": "88", "size": 131},
+{"name": "136", "size": 122}
+]
+},
+{
+"name": "4",
+"children": [
+{"name": "59", "size": 782},
+{"name": "311", "size": 622},
+{"name": "93", "size": 435},
+{"name": "8", "size": 319},
+{"name": "304", "size": 305},
+{"name": "892", "size": 244},
+{"name": "153", "size": 242},
+{"name": "218", "size": 211},
+{"name": "276", "size": 182},
+{"name": "100", "size": 155},
+{"name": "32", "size": 135},
+{"name": "207", "size": 116},
+{"name": "42", "size": 112},
+{"name": "83", "size": 107},
+{"name": "81", "size": 106},
+{"name": "3878", "size": 96},
+{"name": "252", "size": 91},
+{"name": "5004", "size": 87},
+{"name": "509", "size": 68},
+{"name": "514", "size": 63}
+]
+}
+]
+}
